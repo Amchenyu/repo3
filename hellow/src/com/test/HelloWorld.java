@@ -5,4 +5,9 @@ public class HelloWorld {
         System.out.println("hello,world");
         System.out.println("hello,world");
     }
+
+    public void test(){
+        int i = 0 ;
+        i+=10;
+    }
 }
